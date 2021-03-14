@@ -20,3 +20,7 @@
    <li>Cloudinary Image Upload</li> 
   <li>Mapbox API</li>
   </ul>
+  
+  <br/>
+  
+  ![](maps.gif)
